@@ -1,2 +1,2 @@
 # web-project
-project for accadmic course
+project for acadmic course
